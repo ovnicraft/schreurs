@@ -25,3 +25,6 @@
 [submodule "odooec"]
 	path = odooec
 	url = git@github.com:ovnicraft/odooec.git
+[submodule "ohrms"]
+	path = ohrms
+	url = git@gitlab.prisehub.com:prisehub/ohrms.git
